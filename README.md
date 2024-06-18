@@ -44,6 +44,41 @@
 
 <br/>
 
+## 🌿 Level 2 : Spring Framework, REST API, JPA, DB, Deployment
+
+### 기간
+- 2024.04.16 – 2024.06.14
+
+### 학습 목표
+
+- 웹 애플리케이션을 개발하며 웹 백엔드 개발자의 기본 역량을 쌓는다.
+  - 주어진 요구사항에 맞춰 기능을 추가/변경하며 애플리케이션을 발전시켜 나간다.
+  - 클라우드 환경에 배포를 하여 사용자에게 서비스할 수 있는 최소한의 상태로 만든다.
+- 웹 애플리케이션 구현을 위해 필요한 새로운 기술을 학습한다.
+  - 이 과정에서 효과적으로 새로운 기술을 익힐 수 있는 본인만의 학습 방법을 찾는 시도를 한다.
+- 웹 프로그래밍 과정에서도 읽기 좋은 코드, 유지보수하기 좋은 코드를 작성하는 경험을 한다.
+
+### 진행 미션
+|Project |Repository |Pull Request |Pair |Reviewer |
+|:------:|:---------:|:-----------:|:---:|:-------:|
+|방탈출 예약 관리/step1|[spring-roomescape-admin/step1](https://github.com/eun-byeol/spring-roomescape-admin/tree/step1)|[Pull Request](https://github.com/woowacourse/spring-roomescape-admin/pull/72)|[산초](https://github.com/nayonsoso)|[러너덕](https://github.com/Deocksoo)|
+|방탈출 예약 관리/step2|[spring-roomescape-admin/step2](https://github.com/eun-byeol/spring-roomescape-admin/tree/step2)|[Pull Request](https://github.com/woowacourse/spring-roomescape-admin/pull/147)||[러너덕](https://github.com/Deocksoo)|
+|방탈출 사용자 예약/step1|[spring-roomescape-member/step1](https://github.com/eun-byeol/spring-roomescape-member/tree/step1)|[Pull Request](https://github.com/woowacourse/spring-roomescape-member/pull/59)|[리건](https://github.com/hangillee)|[영이](https://github.com/choijy1705)|
+|방탈출 사용자 예약/step2|[spring-roomescape-member/step2](https://github.com/eun-byeol/spring-roomescape-member/tree/step2)|[Pull Request](https://github.com/woowacourse/spring-roomescape-member/pull/142)||[영이](https://github.com/choijy1705)|
+|방탈출 예약 대기/step1|[spring-roomescape-waiting/step1](https://github.com/eun-byeol/spring-roomescape-waiting/tree/step1)|[Pull Request](https://github.com/woowacourse/spring-roomescape-waiting/pull/23)|[카키](https://github.com/hyeon0208)|[썬](https://github.com/syoun602)|
+|방탈출 예약 대기/step2|[spring-roomescape-waiting/step2](https://github.com/eun-byeol/spring-roomescape-member/tree/step2)|[Pull Request](https://github.com/woowacourse/spring-roomescape-member/pull/142)||[썬](https://github.com/syoun602)|
+|방탈출 결제, 배포/step1|[spring-roomescape-payment/step1](https://github.com/eun-byeol/spring-roomescape-payment/tree/step1)|[Pull Request](https://github.com/woowacourse/spring-roomescape-payment/pull/50)|[안나](https://github.com/Mingyum-Kim)|[범블비](https://github.com/ddaaac)|
+|방탈출 결제, 배포/step2|[spring-roomescape-payment/step2](https://github.com/eun-byeol/spring-roomescape-payment/tree/step2)|[Pull Request](https://github.com/woowacourse/spring-roomescape-payment/pull/107)||[범블비](https://github.com/ddaaac)|
+
+### 블로그 포스팅
+- [[회고] 레벨2 첫 미션](https://jojodevlog.tistory.com/7)
+- [[Spring] @Component와 @Repository는 무엇이 다른가요?](https://jojodevlog.tistory.com/6)
+- [[Spring] 테스트 격리 방법 : @DirtiestContext의 대체재](https://jojodevlog.tistory.com/8)
+- [[Spring] Controller는 어떻게 테스트 할까?(feat. RestAssured vs MockMvc)](https://jojodevlog.tistory.com/9)
+- [[Spring] 코드로 더미 데이터를 추가해보자](https://jojodevlog.tistory.com/10)
+
+<br/>
+
 ## 📝 Writing : 글쓰기 코스
 
 ### 중심 내용
@@ -55,3 +90,4 @@
 | Level |  Topic   |                                         Repository                                          |                             Pull Request                             |                                                                                                      Reviewer                                                                                                      |
 |:-----:|:--------:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |   1   | 가볍게 시작하기 | [woowa-writing/LEVEL1.md](https://github.com/eun-byeol/woowa-writing/blob/level1/Level1.md) | [Pull Request](https://github.com/woowacourse/woowa-writing/pull/65) | [폭포](https://github.com/BurningFalls) [망쵸](https://github.com/3Juhwan) [초코](https://github.com/00kang) [예니](https://github.com/JoYehyun99) [제제](https://github.com/JINU-CHANG) [포메](https://github.com/novice0840) |
+|   2   | 가볍게 이어가기 | [woowa-writing/LEVEL2.md](https://github.com/eun-byeol/woowa-writing/blob/level2/Level2.md) | [Pull Request](https://github.com/woowacourse/woowa-writing/pull/242) | [쿠키](https://github.com/jinhokim98) [소파](https://github.com/ss0526100) [초코](https://github.com/00kang) [러쉬](https://github.com/xogns1514) [종이](https://github.com/dwax1324) [레모네](https://github.com/JiHyeonL) |
